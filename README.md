@@ -117,34 +117,8 @@ mvn clean install
 Основаня страничка, которая содержит два перехода на другие старницы с игроками и командами, а также красивое **приветствие**:
 ![изображение](https://github.com/BandooSs/CSA_LR_1/blob/master/screenshot/5.png)
 
-We can't add a lexicon entry without a phrase and a semantics. Let's create a couple for each:
+Страничка игроков, где выводится информация о них и возможность добавления игроков:  
+![изображение](https://github.com/BandooSs/CSA_LR_1/blob/master/screenshot/6.png)
 
-![изображение](https://github.com/RaisssHab/ESA2023/assets/60664914/fbdfe4a2-ee13-4645-947e-96069995571c)
-
-![изображение](https://github.com/RaisssHab/ESA2023/assets/60664914/4e503ece-e6f0-47f8-a736-066deeb21f01)
-
-![изображение](https://github.com/RaisssHab/ESA2023/assets/60664914/384e05a5-757e-430d-b831-9c0fc2262609)
-
-![изображение](https://github.com/RaisssHab/ESA2023/assets/60664914/f0650b2e-bbea-4aed-9dd3-84cb981f7f84)
-
-Now we can do the following:
-
-![изображение](https://github.com/RaisssHab/ESA2023/assets/60664914/6e04579d-53d9-4a23-b9e4-7bc9c0ab6dea)
-
-![изображение](https://github.com/RaisssHab/ESA2023/assets/60664914/5fa81676-9126-493e-a97b-20f2b495e1db)
-
-Suppose we didn't like the first entry. Let's edit it:
-
-![изображение](https://github.com/RaisssHab/ESA2023/assets/60664914/755f5200-ddda-4adc-b087-c18817078c8e)
-
-![изображение](https://github.com/RaisssHab/ESA2023/assets/60664914/f721c595-5c0e-4f17-872e-178ed939d9a1)
-
-![изображение](https://github.com/RaisssHab/ESA2023/assets/60664914/8b6d24b6-02ba-4a01-98af-90419640f2e2)
-
-We now can delete the second entry:
-
-![изображение](https://github.com/RaisssHab/ESA2023/assets/60664914/1919e1bc-71b7-4c82-8886-528e0f50152c)
-
-![изображение](https://github.com/RaisssHab/ESA2023/assets/60664914/ecd848b3-a121-4bbf-9514-a0b405947c1d)
-
-![изображение](https://github.com/RaisssHab/ESA2023/assets/60664914/941b4799-ec15-4368-a6bd-8cb7d7d90c50)
+Страничка конмад, где выводится информация о них и возможность добавления новой команды:  
+![изображение](https://github.com/BandooSs/CSA_LR_1/blob/master/screenshot/7.png)
