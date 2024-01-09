@@ -22,7 +22,7 @@ C:\путь\к\glassfish - фактический путь к папке с пр
 
 Также возможно **перезапустить** сервер с помощью команды:
 
-![image](https://github.com/andiyash/git-branches2/assets/145579445/ced316d9-eb7a-4247-a256-ce9c67c2f707)
+![image](https://github.com/BandooSs/CSA_LR_1/blob/master/screenshot/3.jpg)
 
 
 
