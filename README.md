@@ -115,7 +115,7 @@ mvn clean install
 ## Результат работы ##
 
 Основаня страничка, которая содержит два перехода на другие старницы с игроками и командами, а также красивое **приветствие**:
-![изображение]([https://github.com/RaisssHab/ESA2023/assets/60664914/6b1089f6-cfb9-4b59-851b-989dd45de4f4](https://github.com/BandooSs/CSA_LR_1/blob/master/screenshot/5.png))
+![изображение](https://github.com/BandooSs/CSA_LR_1/blob/master/screenshot/5.png)
 
 We can't add a lexicon entry without a phrase and a semantics. Let's create a couple for each:
 
