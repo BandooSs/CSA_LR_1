@@ -9,7 +9,7 @@ C:\путь\к\glassfish - фактический путь к папке с пр
 
 Пример использования команды и успешный **запуск** сервера:
 
-![image](https://github.com/andiyash/git-branches2/assets/145579445/912e24ab-c4f6-47a5-b2e8-dd03bce8a490)
+![image](https://github.com/BandooSs/CSA_LR_1/blob/master/screenshot/1.jpg)
 
 
 
