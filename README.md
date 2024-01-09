@@ -15,7 +15,7 @@ C:\путь\к\glassfish - фактический путь к папке с пр
 
 Пример как можно **остановить** работу сервера:
 
-![image](https://github.com/andiyash/git-branches2/assets/145579445/cce9ca73-423a-43e9-91d3-389730ac9ac3)
+![image](https://github.com/BandooSs/CSA_LR_1/blob/master/screenshot/2.jpg)
 
 
 
