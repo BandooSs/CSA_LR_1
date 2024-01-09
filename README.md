@@ -100,39 +100,22 @@ CREATE TABLE Player
 4. развернуть приложение на сервере.
 
 Для взаимодействия с сервером мы используем графический интерфейс, доступный по адресу http://localhost:4848/.
-
+### Создание .war-пакета ###
+С помощью команды:  
+```
+mvn clean install
+```
 ### Добавление war-пакета на сервер приложения ###
 
 
 ![изображение](https://github.com/BandooSs/CSA_LR_1/blob/master/screenshot/4.png)
 
-And then a resource:
-![изображение](https://github.com/RaisssHab/ESA2023/assets/60664914/9f787e17-47fb-4008-a7d0-339e709d16ff)
-
-We must use the JNDI name configured here in our application configuration to access the database.
-
-<h3>Configuring our application to use a specific database</h3>
-
-In persistence.xml:
-
-```
-<persistence-unit name="myPersistence" transaction-type="JTA">
-    <jta-data-source>jdbc/postgtes</jta-data-source>
-</persistence-unit>
-```
-
-### Создание .war-пакета ###
-
-```
-mvn clean install
-```
 
 
 ## Результат работы ##
 
-That's what we see when we visit the main page:
-
-![изображение](https://github.com/RaisssHab/ESA2023/assets/60664914/6b1089f6-cfb9-4b59-851b-989dd45de4f4)
+Основаня страничка, которая содержит два перехода на другие старницы с игроками и командами, а также красивое **приветствие**:
+![изображение]([https://github.com/RaisssHab/ESA2023/assets/60664914/6b1089f6-cfb9-4b59-851b-989dd45de4f4](https://github.com/BandooSs/CSA_LR_1/blob/master/screenshot/5.png))
 
 We can't add a lexicon entry without a phrase and a semantics. Let's create a couple for each:
 
