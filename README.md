@@ -101,10 +101,10 @@ CREATE TABLE Player
 
 Для взаимодействия с сервером мы используем графический интерфейс, доступный по адресу http://localhost:4848/.
 
-### Добавление нашей базы данных на сервер приложений ###
-First we configured a connection pool.
+### Добавление war-пакета на сервер приложения ###
 
-![изображение](https://github.com/RaisssHab/ESA2023/assets/60664914/1820b24a-7252-4de5-bc7a-9a19d07ff9a2)
+
+![изображение](https://github.com/BandooSs/CSA_LR_1/blob/master/screenshot/4.png)
 
 And then a resource:
 ![изображение](https://github.com/RaisssHab/ESA2023/assets/60664914/9f787e17-47fb-4008-a7d0-339e709d16ff)
